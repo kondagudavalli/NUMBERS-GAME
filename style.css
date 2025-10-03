@@ -1,0 +1,21 @@
+button{
+    background-color: rgb(32,150,218);
+    border: none;;
+    padding: 10px 30px;
+    border-radius: 5px;
+    cursor: pointer;
+    color: white;
+}
+button:hover{
+    background-color: rgb(17, 91, 133);
+}
+body{
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+    font-size: 60px;
+    font-weight: 60px;
+}
